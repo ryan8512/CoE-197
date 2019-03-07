@@ -1,2 +1,2 @@
 # CoE-197
-Deep Learning
+Deep Learning Repository
